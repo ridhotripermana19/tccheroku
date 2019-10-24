@@ -1,0 +1,76 @@
+body {
+width: 960px;
+margin: 30px auto;
+background-image: url('backgroundglass.jpg');
+}
+
+main {
+display: flex;
+}
+
+.padding_this{
+padding: 15px;
+}
+
+.logo,
+.p,
+.textcenter,
+.navigasi,
+.konten,
+.sidebar,
+.footer {
+margin-bottom: 5px;
+padding: 15px 0;
+}
+
+.logo {
+width: 100%;
+height: auto;
+text-align: center;
+color: #000000;
+background-image: url('backgroundglass.jpg');
+}
+.navigasi {
+width: 100%;
+height: auto;
+text-align: center;
+background-image: url('backgroundglass.jpg');
+}
+.konten {
+width: 70%;
+background-image: url('backgroundglass.jpg');
+}
+.sidebar {
+width: 40%;
+background-size: 100%;
+background-image: url('backgroundglass.jpg')
+}
+.footer {
+width: 100%;
+background-image: url('backgroundglass.jpg');
+
+text-align: center;
+}
+
+.navigasi ul{
+padding: 0;
+list-style: none;
+display: inline-block;
+margin: 0;
+color: 000000;
+
+}
+.navigasi li{
+float: left;
+margin: 0 10px;
+color: 000000;
+}
+
+.p{
+	text-align: justify;
+}
+
+.textcenter{
+	text-align: center;
+}
+
