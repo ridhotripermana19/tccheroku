@@ -1,7 +1,7 @@
 body {
 width: 960px;
 margin: 30px auto;
-background-image: url('backgroundglass1.jpg');
+background-image: url('backgroundglass1_2.jpg');
 }
 
 main {
@@ -28,26 +28,26 @@ width: 100%;
 height: auto;
 text-align: center;
 color: #000000;
-background-image: url('backgroundglass1.jpg');
+background-image: url('backgroundglass1_2.jpg');
 }
 .navigasi {
 width: 100%;
 height: auto;
 text-align: center;
-background-image: url('backgroundglass1.jpg');
+background-image: url('backgroundglass1_2.jpg');
 }
 .konten {
 width: 70%;
-background-image: url('backgroundglass1.jpg');
+background-image: url('backgroundglass1_2.jpg');
 }
 .sidebar {
 width: 40%;
 background-size: 100%;
-background-image: url('backgroundglass1.jpg')
+background-image: url('backgroundglass1_2.jpg')
 }
 .footer {
 width: 100%;
-background-image: url('backgroundglass1.jpg');
+background-image: url('backgroundglass1_2.jpg');
 
 text-align: center;
 }
